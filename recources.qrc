@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Pixmaps">
+        <file>img/hndl.png</file>
+        <file>img/Ball20w.png</file>
+        <file>img/bgbg.jpg</file>
+        <file>img/Ball30w.png</file>
+    </qresource>
+    <qresource prefix="/Images"/>
+</RCC>
